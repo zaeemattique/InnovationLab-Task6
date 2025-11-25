@@ -43,7 +43,7 @@ Repository layout
 Architecture
 Below is the architecture diagram included with this repo. The image file is stored at docs/architecture.png so it will render on GitHub when present.
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](https://raw.githubusercontent.com/zaeemattique/InnovationLab-Task6/refs/heads/main/Task6%20Architecture.drawio.png)
 
 If the diagram does not render in your environment, confirm the file exists at docs/architecture.png. The diagram shows high-level components and network flows (refer to the docs directory for a larger version and any explanatory notes).
 
